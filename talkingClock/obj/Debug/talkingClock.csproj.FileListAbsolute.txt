@@ -1,0 +1,6 @@
+c:\users\david\documents\visual studio 2017\Projects\talkingClock\talkingClock\bin\Debug\talkingClock.exe.config
+c:\users\david\documents\visual studio 2017\Projects\talkingClock\talkingClock\bin\Debug\talkingClock.exe
+c:\users\david\documents\visual studio 2017\Projects\talkingClock\talkingClock\bin\Debug\talkingClock.pdb
+c:\users\david\documents\visual studio 2017\Projects\talkingClock\talkingClock\obj\Debug\talkingClock.csprojResolveAssemblyReference.cache
+c:\users\david\documents\visual studio 2017\Projects\talkingClock\talkingClock\obj\Debug\talkingClock.exe
+c:\users\david\documents\visual studio 2017\Projects\talkingClock\talkingClock\obj\Debug\talkingClock.pdb
